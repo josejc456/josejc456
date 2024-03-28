@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-### My name is José Campa, I'm 23 years old and I'm from Sonora, México. 
-### I am a native Spanish speaker and I got an B2 level in English.
+## My name is José Campa, I'm 23 years old and I'm from Sonora, México. 
+## I am a native Spanish speaker and I got an B2 level in English.
 <!--
 **josejc456/josejc456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
