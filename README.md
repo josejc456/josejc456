@@ -9,6 +9,8 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?style=for-the-badge&logo=javascript&logoColor=black)
   ![Java](https://img.shields.io/badge/Java-ED2025?style=for-the-badge&logo=ORACLE&logoColor=white)
   ![Vue](https://img.shields.io/badge/Vue-42d392?style=for-the-badge&logo=vue.js&logoColor=black)
+  ![PHP](https://img.shields.io/badge/PHP-7b7fb5?style=for-the-badge&logo=php&logoColor=black)
+
 
 
 
