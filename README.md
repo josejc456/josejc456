@@ -2,8 +2,10 @@
   <h1>Hi there 👋</h1>
   
   
-  My name is José Campa, I'm 23 years old and I'm from Sonora, México. 
-  I am a native Spanish speaker and I got an B2 level in English.
+  My name is __José Campa__, I'm 23 years old and I'm from __Sonora, México__. 
+  I am a __native Spanish speaker__ and I got an __B2 level in English__.
+
+  ![Python](https://img.shields.io/badge/Python-3476a9?style=for-the-badge&logo=python&logoColor=white) 
 
 </div>
 <!--
