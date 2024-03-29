@@ -8,7 +8,8 @@
   ![Python](https://img.shields.io/badge/Python-3476a9?style=for-the-badge&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?style=for-the-badge&logo=javascript&logoColor=black)
   ![Java](https://img.shields.io/badge/Java-ED2025?style=for-the-badge&logo=ORACLE&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/Python?style=for-the-badge&logo=javascript&color=blue)
+  ![Python](https://img.shields.io/badge/Python?style=for-the-badge&logo=python&logoColor=white&labelColor=blue&color=white)
+
 
 
 </div>
