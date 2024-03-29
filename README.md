@@ -10,6 +10,11 @@
   ![Java](https://img.shields.io/badge/Java-ED2025?style=for-the-badge&logo=ORACLE&logoColor=white)
   ![Vue](https://img.shields.io/badge/Vue-42d392?style=for-the-badge&logo=vue.js&logoColor=black)
   ![PHP](https://img.shields.io/badge/PHP-7b7fb5?style=for-the-badge&logo=php&logoColor=black)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Codeigniter](https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+
+  
+
 
 
 
