@@ -4,7 +4,8 @@
   
   My name is __José Campa__, I'm 23 years old and I'm from __Sonora, México__. 
   I am a __native Spanish speaker__ and I got an __B2 level__ in English.
-  
+
+  <h2>Technologies I have used</h2>
   ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?style=for-the-badge&logo=javascript&logoColor=black)
